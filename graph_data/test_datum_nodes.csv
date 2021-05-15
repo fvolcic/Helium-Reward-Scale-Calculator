@@ -1,0 +1,7 @@
+address,name,lat,lng,reward_scale_correct
+id0,Botton_Left,42.974582,-85.913370,NULL
+id1,Bottom_Right,42.974307,-85.908478,NULL
+id2,Middle_Right,42.977440,-85.908993,NULL
+id3,Middle_Left,42.977558,-85.913681,NULL
+id4,Top_Right,42.978962,-85.913885,NULL
+id5,Top_Top,42.980642,-85.906997,NULL
